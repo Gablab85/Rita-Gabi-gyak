@@ -3,3 +3,4 @@
 # szia
 # hogy vagy?
 # jól vagyok köszönöm.
+# mergelés
